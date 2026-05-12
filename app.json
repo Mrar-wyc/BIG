@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "战斗游戏",
+    "slug": "battle-game",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0f0f1a"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0f0f1a"
+      },
+      "package": "com.big.battlegame"
+    },
+    "plugins": [
+      "expo-font",
+      "expo-asset"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "cea7f65d-7b9a-4860-ab4d-b92a936e15d1"
+      }
+    },
+    "owner": "wuyuchen"
+  }
+}
